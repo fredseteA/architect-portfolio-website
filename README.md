@@ -8,7 +8,7 @@
 
 > Modern, responsive portfolio website for architecture professionals showcasing projects and services with bilingual support (Portuguese/English).
 
-[🌐 Live Demo](https://dec-arq-fired-vercel.app) | [Versão em Português](README.pt-BR.md)
+[🌐 Live Demo](https://dnc-arq-fred.vercel.app/) | [Versão em Português](README.pt-BR.md)
 
 ---
 
