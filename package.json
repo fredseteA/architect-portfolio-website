@@ -1,7 +1,10 @@
 {
-  "name": "arq-package",
+  "name": "architect-portfolio-website",
+  "description": "Modern architecture portfolio website with bilingual support",
+  "author": "Frederico de Freitas Luna Filho <fredericoluna93@gmail.com>",
+  "license": "MIT",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +12,14 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "keywords": [
+    "react",
+    "portfolio",
+    "architecture",
+    "bilingual",
+    "responsive",
+    "vite"
+  ],
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
